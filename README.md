@@ -16,3 +16,14 @@ Dengan keahlian dalam pengembangan web, MaulanDevtech mampu menyediakan solusi y
 
 - Author: maulanDevtech 
 - Email: technocode422@gmail.com
+
+## cara install di termux
+- apt update && apt upgrade -y
+- pkg install python
+- pkg install python3
+- pkg install git
+- git clone https://github.com/MaulanaDevtech422/Facebookill
+- ls
+- cd Facebookill
+- python3 facebookill.py
+- selesai selamat mencoba 
